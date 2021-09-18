@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeVanQuang-3112
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript, Reactjs, TypeScript
+- 🌱 I’m currently learning JavaScript, Reactjs
 - 💞️ Thanks for visiting!
 
 <!---
