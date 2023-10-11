@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeVanQuang
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript, Reactjs
+- 👀 I’m a Web and Mobile Developer
+- 🌱 I’m currently working with JavaScript, Reactjs, React Native, ...
 - 💞️ Thanks for visiting!
 
 <!---
